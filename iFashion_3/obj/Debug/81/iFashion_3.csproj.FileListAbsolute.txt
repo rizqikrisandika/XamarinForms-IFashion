@@ -1,0 +1,349 @@
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\iFashion_3.nuget.stamp
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\iFashion_3.csprojAssemblyReference.cache
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\iFashion_3.dll
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\iFashion_3.pdb
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\iFashion_3.iFashion_3.apk
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\iFashion_3.iFashion_3-Signed.apk
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\libraryimports.cache.stamp
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res.flag
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\iFashion_3.csproj.CoreCompileInputs.cache
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\iFashion_3.dll
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\iFashion_3.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\bin\iFashion_3.iFashion_3.apk
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\layout\activity_main.xml
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\values\colors.xml
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\values\ic_launcher_background.xml
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\values\strings.xml
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\values\styles.xml
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\R.cs.flag
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\R.txt
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\uploadflags.txt
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\Mono.Android.pdb
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\mscorlib.pdb
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.Core.pdb
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.pdb
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.Xml.pdb
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.Net.Http.pdb
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.Runtime.Serialization.pdb
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.ServiceModel.Internals.pdb
+G:\Project\C#\iFashion_3\iFashion_3\bin\Debug\Mono.Security.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\iFashion_3.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\Mono.Android.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\mscorlib.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.Core.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.Xml.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.Net.Http.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\Mono.Security.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\iFashion_3.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\Mono.Android.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\Mono.Security.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\mscorlib.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.Core.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.Net.Http.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.Xml.pdb
+G:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\layout\activity_login.xml
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\iFashion_3.dll
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\iFashion_3.pdb
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\iFashion_3.iFashion_3.apk
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\iFashion_3.iFashion_3-Signed.apk
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\iFashion_3.nuget.stamp
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\iFashion_3.csprojAssemblyReference.cache
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\libraryimports.cache.stamp
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res.flag
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\iFashion_3.csproj.CoreCompileInputs.cache
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\iFashion_3.dll
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\iFashion_3.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\bin\iFashion_3.iFashion_3.apk
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\layout\activity_main.xml
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\values\colors.xml
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\values\ic_launcher_background.xml
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\values\strings.xml
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\values\styles.xml
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\res\layout\activity_login.xml
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\R.cs.flag
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\R.txt
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\uploadflags.txt
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\Mono.Android.pdb
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\Mono.Security.pdb
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\mscorlib.pdb
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.Core.pdb
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.Net.Http.pdb
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.pdb
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.Runtime.Serialization.pdb
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.ServiceModel.Internals.pdb
+H:\Project\C#\iFashion_3\iFashion_3\bin\Debug\System.Xml.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\iFashion_3.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\Mono.Android.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\mscorlib.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.Core.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.Xml.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.Net.Http.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\linksrc\Mono.Security.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\iFashion_3.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\Mono.Android.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\Mono.Security.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\mscorlib.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.Core.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.Net.Http.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+H:\Project\C#\iFashion_3\iFashion_3\obj\Debug\81\android\assets\System.Xml.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\iFashion_3.dll
+G:\Project\New folder\iFashion_3\bin\Debug\iFashion_3.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\iFashion_3.iFashion_3.apk
+G:\Project\New folder\iFashion_3\bin\Debug\iFashion_3.iFashion_3-Signed.apk
+G:\Project\New folder\iFashion_3\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+G:\Project\New folder\iFashion_3\obj\Debug\81\iFashion_3.nuget.stamp
+G:\Project\New folder\iFashion_3\obj\Debug\81\iFashion_3.csprojAssemblyReference.cache
+G:\Project\New folder\iFashion_3\obj\Debug\81\libraryimports.cache.stamp
+G:\Project\New folder\iFashion_3\obj\Debug\81\res.flag
+G:\Project\New folder\iFashion_3\obj\Debug\81\iFashion_3.csproj.CoreCompileInputs.cache
+G:\Project\New folder\iFashion_3\obj\Debug\81\iFashion_3.dll
+G:\Project\New folder\iFashion_3\obj\Debug\81\iFashion_3.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\bin\iFashion_3.iFashion_3.apk
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\category_edgy.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\values\colors.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\values\ic_launcher_background.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\values\strings.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\values\styles.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\home.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\logo_ifashion.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\profile.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\ic_user.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\category_vintage.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\regist_login.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\vintage_6.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\vintage_1.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\vintage_2.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\vintage_3.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\vintage_4.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\vintage_5.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\home_4.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\home_1.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\home_2.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\home_3.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\background_rounded.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\background_square.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\background_square1.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\background_square2.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\background_rounded1.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\background_rounded2.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\background_rounded3.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\btn_rounded2.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\btn_rounded1.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\login.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\regist.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\background_square_sdw.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\btn_arrow1.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\btn_arrow2.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\category.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\background_text.jpg
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\ic_menu.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\category_casual.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\category_classy.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\category_formal.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\category_retro.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\category_monochrome.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\category_bohemian.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\layout\category_oversize.xml
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\casual_10.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\casual_1.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\casual_2.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\casual_3.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\casual_4.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\casual_5.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\casual_6.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\casual_7.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\casual_8.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\casual_9.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\classy_10.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\classy_1.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\classy_2.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\classy_3.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\classy_4.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\classy_5.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\classy_6.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\classy_7.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\classy_8.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\classy_9.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\formal_10.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\formal_1.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\formal_2.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\formal_3.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\formal_4.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\formal_5.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\formal_6.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\formal_7.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\formal_8.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\formal_9.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\monochrome_10.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\monochrome_1.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\monochrome_2.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\monochrome_3.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\monochrome_4.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\monochrome_5.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\monochrome_6.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\monochrome_7.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\monochrome_8.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\monochrome_9.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\retro_10.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\retro_1.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\retro_2.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\retro_3.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\retro_4.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\retro_5.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\retro_6.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\retro_7.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\retro_8.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\retro_9.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\bohemian_10.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\bohemian_1.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\bohemian_2.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\bohemian_3.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\bohemian_4.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\bohemian_5.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\bohemian_6.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\bohemian_7.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\bohemian_8.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\bohemian_9.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\edgy_10.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\edgy_1.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\edgy_2.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\edgy_3.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\edgy_4.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\edgy_5.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\edgy_6.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\edgy_7.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\edgy_8.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\edgy_9.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\oversize_10.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\oversize_1.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\oversize_2.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\oversize_3.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\oversize_4.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\oversize_5.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\oversize_6.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\oversize_7.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\oversize_8.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\res\drawable\oversize_9.png
+G:\Project\New folder\iFashion_3\obj\Debug\81\R.cs.flag
+G:\Project\New folder\iFashion_3\obj\Debug\81\R.txt
+G:\Project\New folder\iFashion_3\obj\Debug\81\uploadflags.txt
+G:\Project\New folder\iFashion_3\bin\Debug\Mono.Android.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\mscorlib.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\Rg.Plugins.Popup.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\System.Core.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\System.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\System.Xml.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\System.Net.Http.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\System.Runtime.Serialization.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\System.ServiceModel.Internals.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\System.ComponentModel.Composition.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\Mono.Security.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\iFashion_3.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\Mono.Android.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\mscorlib.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\Rg.Plugins.Popup.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\System.Core.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\System.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\System.Xml.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\System.Net.Http.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\Mono.Security.pdb
+G:\Project\New folder\iFashion_3\bin\Debug\FormsViewGroup.dll.mdb
+G:\Project\New folder\iFashion_3\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+G:\Project\New folder\iFashion_3\bin\Debug\Xamarin.Forms.Core.dll.mdb
+G:\Project\New folder\iFashion_3\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+G:\Project\New folder\iFashion_3\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\Xamarin.Forms.Core.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\Xamarin.Forms.Core.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\iFashion_3.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\Mono.Android.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\Mono.Security.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\mscorlib.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\Rg.Plugins.Popup.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\System.Core.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\System.Net.Http.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\System.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\android\assets\System.Xml.pdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\Xamarin.Forms.Core.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+G:\Project\New folder\iFashion_3\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.dll.mdb
